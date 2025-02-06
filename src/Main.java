@@ -27,5 +27,6 @@ public class Main {
         {
             System.out.println(array[i] + " ");
         }
+        //v.2.0
     }
 }
